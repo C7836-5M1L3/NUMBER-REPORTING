@@ -36,7 +36,6 @@ echo '
 ██║  ██║███████╗██║     ╚██████╔╝██║  ██║   ██║           
 ╚═╝  ╚═╝╚══════╝╚═╝      ╚═════╝ ╚═╝  ╚═╝   ╚═╝           
 '
-print('Tool coded by Cyber smile:)')
 echo -e "$rset"
 echo -e "$cyan[1] For WhatsApp Number Reporting and Banning\n[2] For WhatsApp Number bombing\n[3] For Number Otp verification"
 echo -n "[×]Enter Your option:"
