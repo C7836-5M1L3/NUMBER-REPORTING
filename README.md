@@ -1,5 +1,5 @@
 # NUMBER-REPORTING
-
+Number reporting,otp hijacking,whatsapp unbanning etc..
 
 $  apt update
 
