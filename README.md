@@ -13,3 +13,7 @@ $  cd NUMBER-REPORTING
 
 $  bash report.sh
 
+### Screen shot!
+
+<div align="center">
+  <img border-radius: 15px src="https://telegra.ph/file/4b125dcb8a52761d2c1b4.jpg" width="330" height="330"/>
